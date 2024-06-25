@@ -1,0 +1,8 @@
+exercises
+extras
+slides
+
+out/*
+!out/summary.pdf
+
+.DS_Store
